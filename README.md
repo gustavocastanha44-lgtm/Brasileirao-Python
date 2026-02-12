@@ -35,4 +35,8 @@ Gráfico de barras interativo por equipe (Ex: Proporção de resultados do Vasco
 
 Análise de correlação entre melhor defesa e posição na tabela.
 
-# 🚀 Como Executar
+# 🚀 Como Acessar
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gustavocastanha44-lgtm/Brasileirao-Python/blob/main/Análise_Brasileiro_Série_A_2025.ipynb)
+
+>  Clique no botão acima para abrir o código e gerar a tabela interativa agora mesmo!
